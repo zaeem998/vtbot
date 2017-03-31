@@ -10,3 +10,7 @@ cd vtbot
 ./vtbot.sh install
 ./vtbot.sh # وقم بضافه رقم لهاتف وسيعمل 
 ```
+============
+
+*dev*
+(mohamed)[https://t.me/jj97jj]
