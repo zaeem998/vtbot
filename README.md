@@ -9,8 +9,9 @@ git clone https://github.com/zaeem998/vtbot.git
 cd vtbot
 ./vtbot.sh install
 ./vtbot.sh # وقم بضافه رقم لهاتف وسيعمل 
-```============
+```
+
 
 *dev*
 ============
-[mohamed](https://t.me/jj97jj)
+[mohamed] (https://t.me/jj97jj)
