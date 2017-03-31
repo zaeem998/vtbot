@@ -3,7 +3,7 @@
 *instal*
 ============
 ```bash
-# After installing the dependencies, install the bot
+# لتنصيب لبوت قم بضافه هاذه الاكواد بلتسلسل مع ضغط انتر
 cd $HOME
 git clone https://github.com/zaeem998/vtbot.git
 cd vtbot
