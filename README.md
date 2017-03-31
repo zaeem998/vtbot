@@ -1,3 +1,4 @@
-s(vtbot)- (telegram-bot)
+(vtbot)- (telegram-bot)
 ============
 *instal*
+============
