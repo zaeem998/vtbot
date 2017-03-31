@@ -14,4 +14,4 @@ cd vtbot
 
 *dev*
 ============
-[mohamed] (https://t.me/jj97jj)
+- [mohamad](https://telegram.me/jj97jj)
