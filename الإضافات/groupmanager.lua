@@ -3003,7 +3003,7 @@ return "*تم وضع اللغة على : العربية*"
 end
 end
 
-if matches[1] == "help" or matches[1] == "م1" and is_mod(msg) then
+if matches[1] == "help" or matches[1] == "الاوامر" and is_mod(msg) then
 if not lang then
 text = [[
 *setowner* `[username|id|reply]` 
